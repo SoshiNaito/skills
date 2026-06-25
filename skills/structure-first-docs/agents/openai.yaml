@@ -1,0 +1,4 @@
+interface:
+  display_name: "Structure-First Docs"
+  short_description: "構造が伝わる技術文書を短く作る"
+  default_prompt: "$structure-first-docs を使って、関係性を明確にしつつ、暗黙知や低頻度エッジケースを削った技術文書を作成してください。"
